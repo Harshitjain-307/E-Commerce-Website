@@ -2,6 +2,20 @@
 
 Welcome to **Home Leaf**, an e-grocery store platform designed to provide users with a seamless online grocery shopping experience. This project is developed using HTML, CSS, JavaScript, and PHP.
 
+## Images
+![WhatsApp Image 2025-07-05 at 13 58 58_0d24d150](https://github.com/user-attachments/assets/0b1bf01f-9205-409d-81d3-2d4f29e2b25c)
+![WhatsApp Image 2025-07-05 at 13 58 58_9e82b2bf](https://github.com/user-attachments/assets/ec2eaa14-b82e-4ded-9a97-f744df3d53c0)
+![WhatsApp Image 2025-07-05 at 13 58 58_9e82b2bf](https://github.com/user-attachments/assets/b98684b7-be4e-4960-be76-b6939b303539)
+![WhatsApp Image 2025-07-05 at 13 58 59_4ad0f5dd](https://github.com/user-attachments/assets/9b757af4-2d00-4edb-96f0-312d39226a80)
+![WhatsApp Image 2025-07-05 at 13 58 59_48e1b369](https://github.com/user-attachments/assets/d16ddd7d-b51a-43ce-8424-18261f3bbec1)
+![WhatsApp Image 2025-07-05 at 13 59 00_bbf20c53](https://github.com/user-attachments/assets/46636536-ec8a-429c-b3f5-04fa68996070)
+![WhatsApp Image 2025-07-05 at 13 59 00_747db097](https://github.com/user-attachments/assets/9dafb3e6-be38-41f8-8e74-f044d99c1d4e)
+![WhatsApp Image 2025-07-05 at 13 59 00_34d8668f](https://github.com/user-attachments/assets/81e64dc4-e9f6-494c-82f7-843c2c4c10aa)
+
+
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
