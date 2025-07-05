@@ -171,15 +171,12 @@ We welcome contributions from the community! To contribute to Home Leaf, follow 
    git push origin feature-branch
    ```
 
-6. **Create a Pull Request:**
-   - Go to the original repository and create a pull request from your forked repository.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to contact us:
 
-- **Email:** contact.legitkiller@gmail.com
-
+- **Email:** Harshitjain3075@gmail.com
 ---
 
-Thank you for using Home Leaf! Happy shopping!
+Thank you !!
